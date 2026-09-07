@@ -9,7 +9,7 @@ A SQL project analyzing the data engineer job market using real world job postin
 - ✅ Outcomes: Delivered **actionable insights** on SQL/Python dominance, cloud trends, and salary patterns.                                                     
 
 
-If you only have a minute, review these:
+If you only have a minute, review these: 
 1. 🎯 [Top Demanded Skills Query](01_top_demanded_skills.sql)        
 
 2. 💰 [Top Paying Skills Query](02_top_paying_skills.sql)

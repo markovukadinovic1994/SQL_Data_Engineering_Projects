@@ -41,7 +41,7 @@ CREATE TABLE company_dim (
 );
 
 CREATE TABLE skills_dim (
-    skill_id INTEGER PRIMARY KEY,
+    skill_id INTEGER PRIMARY KEY, 
     skills VARCHAR,
     type VARCHAR
 );
