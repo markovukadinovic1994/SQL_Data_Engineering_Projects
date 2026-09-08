@@ -6,8 +6,8 @@ The following projects are a collection of SQL projects that I have worked on to
 
 ## Projects
 
-### [1. EDA](../Projects/1_EDA/) - Exploratory Data Analysis
+### [1. EDA](/Projects/1_EDA/) - Exploratory Data Analysis
 
-![Project](../Projects/1_EDA/Images/1_1_Project1_EDA.png)
+![Project](Projects/1_EDA/Images/1_1_Project1_EDA.png)
 
 SQL-driven analysis of data engineer job market trends using advanced querying techniques.
